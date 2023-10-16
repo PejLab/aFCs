@@ -4,7 +4,7 @@ The aFC-n model is the multi-variant generalization of the [aFC approach](https:
 
 This dataset is generated using [aFC-n software package](https://github.com/wickdChromosome/aFC-n), 10.5281/zenodo.8412460, to calculate effect sizes for ~half a million independent cis-eQTLs across 49 tissues in the GTEx v8 release as described in the manuscript.
 
-### GTEx_v8_aFCn contains:
+### aFC_n_Oct2022 contains:
 
 - **gene_id** : Ensembl gene ID
 - **variant_id** : eQTL ID associated to the gene
