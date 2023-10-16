@@ -6,11 +6,11 @@ This dataset is generated using [aFC-n software package](https://github.com/wick
 
 ### GTEx_v8_aFCn contains:
 
-**gene_id** : Ensembl gene ID
-**variant_id** : eQTL ID associated to the gene
-**log2_aFC** : The log2 of eQTL effect sizes measured as allelic Fold Change (aFC).
-**log2_aFC_min_95_interv** : Lower bound 95% confidence interval 
-**log2_aFC_plus_95_interv**: Upper bound 95% confidence interval
+- **gene_id** : Ensembl gene ID
+- **variant_id** : eQTL ID associated to the gene
+- **log2_aFC** : The log2 of eQTL effect sizes measured as allelic Fold Change (aFC).
+- **log2_aFC_min_95_interv** : Lower bound 95% confidence interval 
+- **log2_aFC_plus_95_interv**: Upper bound 95% confidence interval
 
 
 
